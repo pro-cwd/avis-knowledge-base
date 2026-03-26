@@ -1,0 +1,190 @@
+{
+  "configuracion_agente": {
+    "nombre_comercial": "V.E.N.I.A.",
+    "moneda": "USD",
+    "pais_operacion": "Ecuador",
+    "tasas_impuestos": {
+      "iva_porcentaje": 15,
+      "precios_incluyen_iva": true
+    },
+    "objetivo_principal": "Calificar prospectos empresariales (RUC jurídico) y agendar cierre presencial.",
+    "personalidad": "Profesional, consultivo, empático y resolutivo"
+  },
+  "catalogo_servicios": [
+    {
+      "id": "CLARO-CP-15",
+      "categoria": "Telefonía Móvil Corporativa",
+      "nombre": "Plan Negocios Plus 15",
+      "especificaciones_tecnicas": {
+        "datos_navegacion_libre_gb": 25,
+        "datos_whatsapp_gb": 15,
+        "minutos_multidestino": "Ilimitados",
+        "minutos_internacionales_ri": 50,
+        "sms_multidestino": 500,
+        "redes_sociales_ilimitadas": ["Facebook", "Instagram", "TikTok", "X (Twitter)", "WhatsApp"],
+        "claro_drive_gb": 25,
+        "roaming_ilimitado": false,
+        "cobertura_5g": true
+      },
+      "beneficios_clave": [
+        "Cobertura nacional en la red 5G más rápida",
+        "Ideal para mantener conectada a tu fuerza de ventas básica",
+        "Redes sociales ilimitadas para gestión comercial"
+      ],
+      "precio_lista": 17.25,
+      "pago_frecuencia": "mensual",
+      "requiere_presencial": true,
+      "restricciones": ["Aplica solo con RUC jurídico"],
+      "script_sugerido_vendedor": "El Plan Negocios Plus 15 es perfecto para equipos que necesitan movilidad básica pero confiable, con 25GB de navegación libre y minutos ilimitados por solo $17.25 al mes, ideal para microempresas."
+    },
+    {
+      "id": "CLARO-CP-18",
+      "categoria": "Telefonía Móvil Corporativa",
+      "nombre": "Plan Negocios Plus 18",
+      "especificaciones_tecnicas": {
+        "datos_navegacion_libre_gb": 28,
+        "datos_whatsapp_gb": "N/A (Incluido en Navegación Libre)",
+        "minutos_multidestino": "Ilimitados",
+        "minutos_internacionales_ri": 50,
+        "sms_multidestino": 500,
+        "redes_sociales_ilimitadas": ["Facebook", "Instagram", "TikTok", "X (Twitter)", "WhatsApp"],
+        "claro_drive_gb": 25,
+        "roaming_ilimitado": true,
+        "cobertura_5g": true
+      },
+      "beneficios_clave": [
+        "Mayor capacidad de datos para navegación libre",
+        "Incluye Roaming Ilimitado para viajes regionales de negocios",
+        "Solución integral de comunicación multidestino"
+      ],
+      "precio_lista": 20.70,
+      "pago_frecuencia": "mensual",
+      "requiere_presencial": true,
+      "restricciones": ["Aplica solo con RUC jurídico"],
+      "script_sugerido_vendedor": "Si tu negocio requiere un poco más de datos y viajas ocasionalmente, el Plan 18 te ofrece 28GB y Roaming Ilimitado por $20.70. Es la mejor relación costo-beneficio para pequeñas empresas."
+    },
+    {
+      "id": "CLARO-CP-20",
+      "categoria": "Telefonía Móvil Corporativa",
+      "nombre": "Plan Negocios Plus 20",
+      "especificaciones_tecnicas": {
+        "datos_navegacion_libre_gb": 32,
+        "datos_whatsapp_gb": "N/A (Incluido en Navegación Libre)",
+        "minutos_multidestino": "Ilimitados",
+        "minutos_internacionales_ri": 100,
+        "sms_multidestino": 500,
+        "redes_sociales_ilimitadas": ["Facebook", "Instagram", "TikTok", "X (Twitter)", "WhatsApp"],
+        "claro_drive_gb": 25,
+        "roaming_ilimitado": true,
+        "cobertura_5g": true
+      },
+      "beneficios_clave": [
+        "Doble de minutos internacionales (100 min) frente a planes básicos",
+        "32GB de navegación libre para alta demanda operativa",
+        "Seguridad de tarifa fija sin sobrefacturación"
+      ],
+      "precio_lista": 23.00,
+      "pago_frecuencia": "mensual",
+      "requiere_presencial": true,
+      "restricciones": ["Aplica solo con RUC jurídico"],
+      "script_sugerido_vendedor": "Para empresas con proveedores o clientes en el extranjero, el Plan 20 es ideal: duplica los minutos internacionales a 100 y te da 32GB por $23.00. Comunicación global sin sorpresas en la factura."
+    },
+    {
+      "id": "CLARO-CP-25",
+      "categoria": "Telefonía Móvil Corporativa",
+      "nombre": "Plan Negocios Plus 25",
+      "especificaciones_tecnicas": {
+        "datos_navegacion_libre_gb": 40,
+        "datos_whatsapp_gb": "N/A (Incluido en Navegación Libre)",
+        "minutos_multidestino": "Ilimitados",
+        "minutos_internacionales_ri": 100,
+        "sms_multidestino": 500,
+        "redes_sociales_ilimitadas": ["Facebook", "Instagram", "TikTok", "X (Twitter)", "WhatsApp"],
+        "claro_drive_gb": 25,
+        "roaming_viajero_sin_limites": true,
+        "cobertura_5g": true
+      },
+      "beneficios_clave": [
+        "Poderosa capacidad de 40GB de navegación libre",
+        "Incluye 'Roaming Viajero Sin Límites' (cobertura global amplia)",
+        "Ideal para perfiles gerenciales o técnicos de campo"
+      ],
+      "precio_lista": 28.75,
+      "pago_frecuencia": "mensual",
+      "requiere_presencial": true,
+      "restricciones": ["Aplica solo con RUC jurídico", "Aplican T&C para Roaming Viajero"],
+      "script_sugerido_vendedor": "El Plan 25 está diseñado para la gerencia moderna: 40GB y nuestro exclusivo Roaming Viajero Sin Límites por $28.75. Mantén el control de tu negocio dentro y fuera del país."
+    },
+    {
+      "id": "CLARO-CP-35",
+      "categoria": "Telefonía Móvil Corporativa",
+      "nombre": "Plan Negocios Plus 35",
+      "especificaciones_tecnicas": {
+        "datos_navegacion_libre_gb": 60,
+        "datos_whatsapp_gb": "N/A (Incluido en Navegación Libre)",
+        "minutos_multidestino": "Ilimitados",
+        "minutos_internacionales_ri": 150,
+        "sms_multidestino": 500,
+        "redes_sociales_ilimitadas": ["Facebook", "Instagram", "TikTok", "X (Twitter)", "WhatsApp"],
+        "claro_drive_gb": 25,
+        "roaming_viajero_sin_limites": true,
+        "cobertura_5g": true
+      },
+      "beneficios_clave": [
+        "60GB de navegación para consumo intensivo de video y datos",
+        "150 minutos internacionales para conferencias globales",
+        "Conectividad premium para medianas empresas"
+      ],
+      "precio_lista": 40.25,
+      "pago_frecuencia": "mensual",
+      "requiere_presencial": true,
+      "restricciones": ["Aplica solo con RUC jurídico", "Aplican T&C para Roaming Viajero"],
+      "script_sugerido_vendedor": "Si tu operación depende de estar hiperconectado y realizas múltiples llamadas internacionales, el Plan 35 es tu solución. 60GB y 150 min internacionales por $40.25 para máxima productividad."
+    },
+    {
+      "id": "CLARO-CP-50",
+      "categoria": "Telefonía Móvil Corporativa",
+      "nombre": "Plan Negocios Plus 50",
+      "especificaciones_tecnicas": {
+        "datos_navegacion_libre_gb": 90,
+        "datos_whatsapp_gb": "N/A (Incluido en Navegación Libre)",
+        "minutos_multidestino": "Ilimitados",
+        "minutos_internacionales_ri": 200,
+        "sms_multidestino": 500,
+        "redes_sociales_ilimitadas": ["Facebook", "Instagram", "TikTok", "X (Twitter)", "WhatsApp"],
+        "claro_drive_gb": 25,
+        "roaming_viajero_sin_limites": true,
+        "cobertura_5g": true
+      },
+      "beneficios_clave": [
+        "Máxima capacidad: 90GB de navegación libre",
+        "Top de minutos internacionales (200 min) para máxima conectividad",
+        "La experiencia corporativa definitiva sin límites"
+      ],
+      "precio_lista": 57.50,
+      "pago_frecuencia": "mensual",
+      "requiere_presencial": true,
+      "restricciones": ["Aplica solo con RUC jurídico", "Aplican T&C para Roaming Viajero"],
+      "script_sugerido_vendedor": "Para empresas que no se detienen, el Plan 50 ofrece 90GB y 200 min internacionales por $57.50. Es la verdadera experiencia 5G corporativa, diseñada para líderes globales."
+    }
+  ],
+  "reglas_de_negocio": {
+    "descuentos": {
+      "permitir_autonomo": false,
+      "nota": "Los planes corporativos de Claro suelen tener tarifas fijas no negociables por el agente. Transferir si el cliente insiste."
+    },
+    "disparadores_transferencia_humana": [
+      "El cliente insiste en solicitar un descuento económico",
+      "El cliente solicita agendar la visita presencial para firma de contrato",
+      "El cliente presenta un RUC que no es jurídico (ej. RUC personal o RISE)",
+      "Preguntas sobre T&C específicos del 'Roaming Viajero Sin Límites'",
+      "El cliente solicita equipos (celulares) financiados en el plan",
+      "Detección de lenguaje agresivo o frustración"
+    ],
+    "politica_seguimiento": {
+      "intento_1": "24 horas después del primer contacto",
+      "intento_2": "48 horas después si no hay respuesta",
+      "intento_3": "7 días después (último intento, marcar como 'No interesado' en BD)"
+    }
+  }
+}
